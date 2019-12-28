@@ -3,3 +3,4 @@
 * Course List
 	* Agile Meets Design Thinking
 	* Cost and Economics in Pricing Strategy
+	* Customer Value in Pricing
