@@ -6,3 +6,4 @@
 	* Customer Value in Pricing
 	* Digital Analytics for Marketing Professionals
 	* Essential Design Principles for Tableau
+	* Introduction to Blockchain Technologies
