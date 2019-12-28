@@ -8,3 +8,4 @@
 	* Essential Design Principles for Tableau
 	* Introduction to Blockchain Technologies
 	* Investments_II
+	* Introduction to Search Engine Optimization
