@@ -12,3 +12,4 @@
 	* Fundamentals of Visualization with Tableau
 	* Financial Accounting- Foundations
 	* Introduction to Financial Accounting
+	* Foundations of strategic business analytics
