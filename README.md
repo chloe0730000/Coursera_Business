@@ -10,3 +10,4 @@
 	* Investments_II
 	* Introduction to Search Engine Optimization
 	* Fundamentals of Visualization with Tableau
+	* Financial Accounting- Foundations
