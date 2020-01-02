@@ -14,3 +14,4 @@
 	* Introduction to Financial Accounting
 	* Foundations of strategic business analytics
 	* Marketing Analytics in Theory
+	* Market and Competition in Pricing Strategy
