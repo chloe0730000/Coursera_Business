@@ -15,3 +15,4 @@
 	* Foundations of strategic business analytics
 	* Marketing Analytics in Theory
 	* Market and Competition in Pricing Strategy
+	* Transacting on the Blockchain
