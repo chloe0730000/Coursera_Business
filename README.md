@@ -16,3 +16,4 @@
 	* Marketing Analytics in Theory
 	* Market and Competition in Pricing Strategy
 	* Transacting on the Blockchain
+	* Pricing Strategy in Practice
