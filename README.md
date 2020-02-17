@@ -17,3 +17,4 @@
 	* Market and Competition in Pricing Strategy
 	* Transacting on the Blockchain
 	* Pricing Strategy in Practice
+	* Introduction to Corporate Finance
