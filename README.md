@@ -18,3 +18,4 @@
 	* Transacting on the Blockchain
 	* Pricing Strategy in Practice
 	* Introduction to Corporate Finance
+	* Fundamentals of Quantitative Modeling
