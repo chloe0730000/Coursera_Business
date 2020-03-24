@@ -19,3 +19,4 @@
 	* Pricing Strategy in Practice
 	* Introduction to Corporate Finance
 	* Fundamentals of Quantitative Modeling
+	* Introduction to Operations Management
